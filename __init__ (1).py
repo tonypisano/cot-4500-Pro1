@@ -20,8 +20,8 @@ DEFAULT_EQUATION = x**3 + 4*x**2 - 10
 
 # Packages
 __version__ = '0.1.0'
-__author__ = 'Your Name'
-__email__ = 'your.email@example.com'
+__author__ = 'Anthony Pisano'
+__email__ = 'an515930@ucf.edu'
 __all__ = [
     'bisection_method',
     'newton_method',
