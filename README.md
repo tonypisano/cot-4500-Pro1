@@ -31,10 +31,10 @@ python cot-4500-pro1.py
 
 2. Run individual methods:
 ```bash
-python bisection.py #bisection   
-python fp_method.py #Fixed Point   
-python newton.py  #newton  
-python approx.py  #approximation     
+#bisection   
+#Fixed Point   
+#newton  
+#approximation     
 ```
 
 ## Parameters
