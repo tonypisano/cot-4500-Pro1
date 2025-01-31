@@ -4,11 +4,11 @@ import sympy as sym
 
 
 def f(x):
-    return x**3 + 4 * x**2 - 10
+    return x**3 + 4 * x**2 - 10 #function
 
 
 def g(x):
-    return math.sqrt((10 - x**3) / 4)
+    return math.sqrt((10 - x**3) / 4) #function
 
 
 def bisection_method(a, b, tol=1e-4, max_iter=100):
