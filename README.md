@@ -46,13 +46,12 @@ python cot-4500-pro1.py
 ## Output Format
 
 Each method displays:
-- Iteration number
 - Current approximation
 - Final root value
 - Number of iterations taken
 - Convergence status
 
-## Error Handling
+## Errors
 
 The program fails if:
 - Invalid intervals
