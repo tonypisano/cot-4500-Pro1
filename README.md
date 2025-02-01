@@ -41,11 +41,7 @@ python cot-4500-pro1.py
 - Maximum iterations: 0
 - Initial interval for bisection: [-4, 7]
 - Initial guess for other methods: 1.5
-
-## Dependencies
-
-- Python 3.11+
-- SymPy library for symbolic mathematics
+- Python 3.11+ used
 
 ## Output Format
 
