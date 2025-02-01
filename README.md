@@ -12,11 +12,9 @@ This project implements various numerical methods for finding roots of equations
 2. **Fixed Point Iteration**
    - Based on converting equation to x = g(x) form
    - Requires good initial guess
-   - May diverge if |g'(x)| > 1
 
 3. **Newton's Method**
    - Uses tangent lines to approximate roots
-   - Fastest convergence when close to root
    - May fail if derivative becomes zero
 
 4. **Square Root Approximation**
@@ -60,7 +58,7 @@ Each method displays:
 
 ## Error Handling
 
-The program handles:
+The program fails if:
 - Invalid intervals
 - Divergence
 - Zero derivatives
